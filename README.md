@@ -1,4 +1,4 @@
-## NSoC 2026
+## Nexus Spring of Code
 ## ❄️ Winter Of Code Social 2025
 ## 🎃 Hacktoberfest 2025
 
