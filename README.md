@@ -1,3 +1,4 @@
+## NSoC 2026
 ## ❄️ Winter Of Code Social 2025
 ## 🎃 Hacktoberfest 2025
 
